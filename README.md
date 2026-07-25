@@ -3,7 +3,9 @@
 A small lead-capture product: a public landing page that takes a name/email/budget/message submission, and a password-protected admin panel to review, search, and triage those leads.
 
 **Live app:** `https://leaddesk-mini-orpin.vercel.app/`
+
 **Admin panel:** `https://leaddesk-mini-orpin.vercel.app/admin/login`
+
 **Test credentials:** `test@gmail.com` / `bot@123`
 
 ---
